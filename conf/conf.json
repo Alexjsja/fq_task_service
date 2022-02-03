@@ -1,0 +1,8 @@
+{
+    "app_port": "1488",
+    "pg_db_host": "localhost",
+    "pg_db_port": "5432",
+    "pg_db_name": "fq",
+    "pg_db_user_name": "postgres",
+    "pg_db_password": "root"
+}
